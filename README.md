@@ -1,0 +1,1 @@
+R package that implements fractional, semi-supervised, and unsupervised learning based on the expectaion maximization algorithm.
